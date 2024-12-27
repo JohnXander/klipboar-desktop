@@ -1,19 +1,14 @@
-# Klipboar 🐗
+# Klipboar (2024) 🐗
 
-Klipboar is a desktop application designed to assist educators in detecting plagiarism in student assignments. It offers a seamless experience for both students and teachers, integrating browsing and assignment submission capabilities with advanced plagiarism detection features.
+![Electron](https://img.shields.io/badge/Electron-%23000000.svg?style=flat&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?style=flat&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TanStack](https://img.shields.io/badge/TanStack-%233F5C7D.svg?style=flat&logo=tanstack&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white)
 
-## Features
+A desktop app that allows students to create assignments and conduct research using the integrated browser. Teachers can analyse submissions to identify copied content, track the websites it was sourced from, and even view the exact time the copying took place.
 
-### For Students
-- **Integrated Browser**: Browse the internet using Klipboar's built-in browser.
-- **Assignment Writing and Submission**: Write and submit assignments directly within the app. Each character of the assignment contains metadata indicating if it was copied and pasted, including the source website and the timestamp of the action.
-
-### For Teachers
-- **Assignment Review**: View all assignments submitted by students.
-- **Plagiarism Detection**: Inspect assignments to see detailed statistics on copied and pasted content.
-  - **Source Tracking**: Identify the websites from which content was copied.
-  - **Content Analysis**: Determine the percentage of the assignment that was copied and pasted.
-  - **Highlighting**: Hover over a website name to see all characters in the assignment that were copied from that site highlighted.
-- **Report Generation**: Generate and save detailed reports with plagiarism statistics for each assignment.
-
-Thank you for using Klipboar! We hope it helps maintain academic integrity in your institution.
+![Klipboar Main Image](https://raw.githubusercontent.com/JohnXander/project-cube/main/src/assets/klipboar/klipboarMain.jpg)
