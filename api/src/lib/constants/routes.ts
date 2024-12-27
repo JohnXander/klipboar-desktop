@@ -1,0 +1,11 @@
+export const ORGANISATIONS = "/organisations";
+export const ORGANISATION_BY_ID = "/organisations/:orgId";
+export const ASSIGNMENTS = "/assignments/:orgId";
+export const ASSIGNMENT_BY_ID = "/assignments/:orgId/:assignmentId";
+export const GUIDELINES = "/guidelines/:orgId";
+export const GUIDELINE_BY_ID = "/guidelines/:orgId/:guidelineId";
+export const SITES = "/sites/:orgId";
+export const SITE_BY_ID = "/sites/:orgId/:siteId";
+export const REGISTER = "/users/register";
+export const LOGIN = "/users/login";
+export const USERS = "/users/:orgId";
