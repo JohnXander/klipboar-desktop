@@ -1,5 +1,7 @@
 # Klipboar (2024) 🐗
 
+⚠️ This is a redacted version of the original code. It will not work if cloned. The full, working version exists in a private repo.
+
 ![Electron](https://img.shields.io/badge/Electron-%23000000.svg?style=flat&logo=electron&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?style=flat&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
