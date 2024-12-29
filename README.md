@@ -13,6 +13,6 @@
 
 A desktop app that allows students to create assignments and conduct research using the integrated browser. Teachers can analyse submissions to identify copied content, track the websites it was sourced from, and even view the exact time the copying took place.
 
-[Full Walkthrough](https://project-cube-portfolio.vercel.app/)
+[Full Walkthrough](https://johnxander.vercel.app)
 
 ![Klipboar Main Image](https://raw.githubusercontent.com/JohnXander/project-cube/main/src/assets/klipboar/klipboarMain.jpg)
